@@ -1,8 +1,8 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sage-nine-65.vercel.app/api?username=him6794&show_icons=true&theme=calm&count_private=true" height="170"/>
-  <img src="https://github-readme-stats-sage-nine-65.vercel.app/api/top-langs/?username=him6794&layout=compact&theme=calm" height="170"/>
+  <img src="https://github-readme-stats-sage-nine-65.vercel.app/api?username=LuYishan-4&show_icons=true&theme=calm&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-sage-nine-65.vercel.app/api/top-langs/?username=LuYishan-4&layout=compact&theme=calm" height="170"/>
 </p>
 
 ---
