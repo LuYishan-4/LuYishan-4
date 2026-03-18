@@ -9,15 +9,5 @@
 
 ## Discord
 
-<p align="center">
-  <a href="https://discord.com/users/874997511398510602">
-    <img 
-      src="https://lanyard.cnrad.dev/api/874997511398510602?bg=1a1b27&animated=true&idleMessage=Coding%20never%20stops&borderRadius=25px?timestamp=123" 
-      alt="Discord Presence" 
-    />
-  </a>
-</p>
-
----
-
----
+[![Discord Presence](https://lanyard.cnrad.dev/api/874997511398510602?idleMessage=%E5%B0%8F%E8%B3%87%E6%AD%B7%F0%9F%8C%B1)](https://discord.com/users/874997511398510602)
+ 
