@@ -41,7 +41,7 @@ Right now, I'm especially interested in:
 
 ### [UltralightWeb_Cursor](https://github.com/LuYishan-4/Animated_UltralightWeb_Cursor)
 
-this tool can be use html,css,js to customise your os cursor
+tool can be use html,css,js to customise your os cursor
 
 ### [caelestia-dots-kde add more feature](https://github.com/LuYishan-4/caelestia-dots-kde)
 
