@@ -75,18 +75,4 @@ The previous UltralightWeb_Cursor project has been integrated into this project,
 
 ---
 
-## GitHub
 
-<div align="center">
-
-<a href="https://github-stats-extended.vercel.app/api?username=LuYishan-4&show_icons=true&include_all_commits=true&theme=omni">
-  <img src="https://github-stats-extended.vercel.app/api?username=LuYishan-4&show_icons=true&include_all_commits=true&theme=omni" alt="GitHub Stats" />
-</a>
-
-<br/><br/>
-
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=LuYishan-4&langs_count=4&theme=omni">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=LuYishan-4&langs_count=4&theme=omni" alt="Top Languages" />
-</a>
-
-</div>
