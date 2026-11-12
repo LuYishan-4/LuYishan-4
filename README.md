@@ -39,32 +39,6 @@ Right now, I'm especially interested in:
 
 ---
 
-### [LunaDash](https://github.com/LuYishan-4/LunaDash)
-
-a desktop environment
-
-### [UltralightWeb_Cursor](https://github.com/LuYishan-4/Animated_UltralightWeb_Cursor)
-
-tool can be use html,css,js to customise your os cursor
-
-### [caelestia-dots-kde add more feature](https://github.com/LuYishan-4/caelestia-dots-kde)
-
-The previous UltralightWeb_Cursor project has been integrated into this project, and future updates will bring compatibility and display support for additional languages.
-
-### Past FRC Projects
-
-#### [2026FRCRobot-Code](https://github.com/LuYishan-4/FRC-2026-Turkey)
-
-#### [2026FTCRobot-Code](https://github.com/LuYishan-4/FTC2026-Taiwan)
-
-#### [2025FRCRobot-Code(Kop)](https://github.com/LuYishan-4/FRC-2025-Rookie)
-
-#### [2026FRCScout-app](https://github.com/LuYishan-4/FRC-ScoutApp)
-
----
-
-## Tech Stack
-
 ### Languages
 
 ![Languages](https://skillicons.dev/icons?i=cpp,cs,ts,js,java,python,php,bash,dart)
